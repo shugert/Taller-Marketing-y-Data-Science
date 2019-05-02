@@ -6,6 +6,14 @@ Pasos a seguir:
 2. Abrir Jupyter Notebook 
 3. Cargar los notebook de este repositorio.
 
+# Caso 1: Predicción de clicks
+
+- Dominio: Advertisement 
+- Objetivo: Predecir quien es más probable que haga click en un anuncio de una campaña usando algoritmos de machine learning.
+- Herramientas: Python, Jupyter Notebook 
+- Librerias: Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn. 
+- Fuente de Datos: Kaggle
+
 # Nuestros eventos
 DataBeers - https://databeers.mx/
 
