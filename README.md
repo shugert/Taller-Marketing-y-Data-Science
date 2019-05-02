@@ -8,16 +8,18 @@ Pasos a seguir:
 
 # Nuestros eventos
 DataBeers - https://databeers.mx/
+
 DataBeers son conferencias trimestrales donde empresas, emprendedores y academicos comparten sus hayazgos mientras disfrutamos de unas cervezas.
 
 Saturdays.ai - https://www.saturdays.ai/
+
 Nuestra mision es empoderar a la mayor cantidad de individuos para aprender Inteligencia Artificial en base a proyectos colaborativos que van más allá de los meétodos de estudio tradicionales. 
 
 ### CONVOCATORIA ABIERTA PARA EL PRIMER CURSO DE SATURDAYS.AI EN HERMOSILLO
 https://www.saturdays.ai/
 
 # Samuel Noriega
-Master en Data Science por la Universitat de Barcelona
-Master en Marketing y Comercio Internacional por la UVM
-Ingeniero Industrial por la UNO
-Director de www.shugert.com.mx
+- Master en Data Science por la Universitat de Barcelona
+- Master en Marketing y Comercio Internacional por la UVM
+- Ingeniero Industrial por la UNO
+- Director de www.shugert.com.mx
