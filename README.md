@@ -3,6 +3,8 @@ Repositorio con notebooks del taller Marketing y Data Science de la Universidad 
 
 Ver la presentación en línea <a href="https://docs.google.com/presentation/d/1rmDOJjNPn8gigXPZp8G8xWdjnHGa4W59vWPOVvNjB7Q/edit?usp=sharing">aquí</a>. 
 
+Password de red: TOSC4N420192
+
 Pasos a seguir: 
 1. Instalar Anaconda https://www.anaconda.com
 2. Abrir Jupyter Notebook 
@@ -26,7 +28,7 @@ Pasos a seguir:
 - Dominio: Marketing
 - Objetivo: Visualizar los datos para identificar correlaciones entre las ventas. Segmentar y hacer clusters de los clientes en terminos de ventas anuales para identificar patrones de comportamiento
 
-# Caso 4: Regresioneles Lineales 
+# Caso 4: Regresiones Lineales 
 
 - Dominio: Marketing
 - Objetivo: Utilizar regresiones lineales para resolver problemas de publicidad. Determinaremos cuantas ventas podemos obtener al invertir en Radio, TV o Revistas.
